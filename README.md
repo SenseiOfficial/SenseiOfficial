@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/a66454cedcb87aeec2d9dce44eb70dfd/tenor.gif" width="100"></a></p> 
+<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/a66454cedcb87aeec2d9dce44eb70dfd/tenor.gif" width="250"></a></p> 
 
 
 
