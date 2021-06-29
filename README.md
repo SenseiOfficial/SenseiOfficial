@@ -11,11 +11,12 @@
 *I am noob still learning python from Code with Harry.*
 ```python
 Name = "SenseiOffcial"
-what_I_do  = ['Coding':  '❣️']
+What_I_do  = "Coding, Preparation for CLAT and other law exams."
 Age = "17"
 Country = "🇮🇳"
-place = "Baliya,Uttar Pradesh"
-motto = "धर्मो रक्षति रक्षितः 🚩🚩"
+Place = "Baliya,Uttar Pradesh"
+Motto = "धर्मो रक्षति रक्षितः 🚩🚩"
+Languages = "English, Hindi and Bhojpuri"
 ```
 
 
