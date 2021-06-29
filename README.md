@@ -3,7 +3,8 @@
 
 
 ### About 🙋🏻‍♂
-<div class="tenor-gif-embed" data-postid="19833023" data-share-method="host" data-width="100%" data-aspect-ratio="1.0163265306122449"><a href="https://tenor.com/view/discord-robot-robo-ky-ky-kiske-guilty-gear-gif-19833023">Discord Robot GIF</a> from <a href="https://tenor.com/search/discord-gifs">Discord GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://media.tenor.com/images/a66454cedcb87aeec2d9dce44eb70dfd/tenor.gif
+
 
 *I am noob still learning python from Code with Harry.*
 ```python
