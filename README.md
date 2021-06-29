@@ -3,7 +3,8 @@
 
 
 ### About 🙋🏻‍♂
-https://media.tenor.com/images/a66454cedcb87aeec2d9dce44eb70dfd/tenor.gif
+<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/a66454cedcb87aeec2d9dce44eb70dfd/tenor.gif" width="5000"></a></p> 
+
 
 
 *I am noob still learning python from Code with Harry.*
