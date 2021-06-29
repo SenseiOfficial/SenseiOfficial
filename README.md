@@ -23,22 +23,9 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 
 ![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social)
 
-<p align="center"> <img src="https://i0.wp.com/www.wordzz.com/wp-content/uploads/2020/12/lord-ram-mobile-wallpaper.png?w=714&ssl=1" alt="SenseiOfficial" /> </p>
-
-
-
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiOfficial)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
 
 ### Languages which I know ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
@@ -47,6 +34,23 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
+
+
+
+<p align="center"> <img src="https://i0.wp.com/www.wordzz.com/wp-content/uploads/2020/12/lord-ram-mobile-wallpaper.png?w=714&ssl=1" alt="SenseiOfficial" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br />
 <br />
