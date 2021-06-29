@@ -1,4 +1,6 @@
 ### ⚡ Amigos ⚡
+![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=SenseiOfficial&label=Profile%20Views&color=orange&style=flat-square" alt="SenseiOfficial" /> </p>
+
 
 
 
@@ -17,19 +19,20 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 ```
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SenseiOfficial&label=Profile%20Views&color=orange&style=flat-square" alt="SenseiOfficial" /> </p>
 
 
 #### 
-<p align="left"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/62a98a0a6d4320273725b160b38b9da7/tenor.gif" width="100"></a></p> 
+<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/62a98a0a6d4320273725b160b38b9da7/tenor.gif" width="100"></a></p> 
+
 <p align="center"><a href="https://github.com/SenseiOfficial/SenseiOfficial"><img src="https://media.tenor.com/images/236c3b72a5d309b40e716635135684b0/tenor.gif" width="100"></a></p> 
 
+<p align="center"><a href="https://www.instagram.com/btwimananay/?hl=en"><img src="https://media.tenor.com/images/fd86a62b3f200543ea22df5e6ec288ee/tenor.gif" width="100"></a></p>
 
 
-![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social)
 
 
-<h1 align="center"><b>💛 My GitHub Stat s💛</b></h1>
+
+<h1 align="center"><b>💛 My GitHub Stats 💛</b></h1>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SenseiOfficial&show_icons=true&locale=en&layout=compact" alt="SenseiOfficial" /></p>
