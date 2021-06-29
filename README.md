@@ -27,6 +27,7 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 <h1 align="center"><b>💛 My GitHub Stat s💛</b></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiOfficial)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SenseiOfficial&show_icons=true&locale=en&layout=compact" alt="SenseiOfficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SenseiOfficial&show_icons=true&locale=en" alt="SenseiOfficial" /></p>
