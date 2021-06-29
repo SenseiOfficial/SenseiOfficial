@@ -23,7 +23,7 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 
 ![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social)
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h1 align="center"><b>My GitHub Stats💛</b></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
