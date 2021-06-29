@@ -22,6 +22,9 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 
 #### 
 [![telegram badge](https://img.shields.io/badge/Telegram-Sensei-red)](https://t.me/sensei_nex_op)
+<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/62a98a0a6d4320273725b160b38b9da7/tenor.gif
+" width="100"></a></p> 
+
 
 ![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social)
 
