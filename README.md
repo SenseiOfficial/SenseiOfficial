@@ -23,9 +23,15 @@ motto = "धर्मो रक्षति रक्षितः 🚩🚩"
 
 ![GitHub followers](https://img.shields.io/github/followers/SenseiOffical?style=social)
 
+
 <h1 align="center"><b>💛 My GitHub Stat s💛</b></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiOfficial)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SenseiOfficial&show_icons=true&locale=en&layout=compact" alt="SenseiOfficial" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SenseiOfficial&show_icons=true&locale=en" alt="SenseiOfficial" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SenseiOfficial" alt="SenseiOfficial" /></p>
 
 ### Languages which I know ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
