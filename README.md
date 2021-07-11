@@ -23,7 +23,7 @@ Languages = "English, Hindi and Bhojpuri"
 
 
 #### 
-<p align="center"><a href="https://t.me/sensei_nex_op"><img src="https://media.tenor.com/images/62a98a0a6d4320273725b160b38b9da7/tenor.gif" width="100"></a></p> 
+<p align="center"><a href="https://t.me/sensei_nex"><img src="https://media.tenor.com/images/62a98a0a6d4320273725b160b38b9da7/tenor.gif" width="100"></a></p> 
 
 <p align="center"><a href="https://github.com/SenseiOfficial/SenseiOfficial"><img src="https://media.tenor.com/images/236c3b72a5d309b40e716635135684b0/tenor.gif" width="100"></a></p> 
 
